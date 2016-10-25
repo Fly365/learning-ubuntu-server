@@ -1,4 +1,4 @@
-bui# Summary
+# Summary
 
 * [介绍](introduction/index.md)
     * [资料收集整理](introduction/information.md)
@@ -8,4 +8,4 @@ bui# Summary
     * [Java](development/java/index.md)
         * [JDK](development/java/jdk.md)
         * [Maven](development/java/maven.md)
-
+* [全文标签总览](tags.md)
