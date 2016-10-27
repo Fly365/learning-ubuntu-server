@@ -7,5 +7,4 @@
 * [开发环境搭建](development/index.md)
     * [Java](development/java/index.md)
         * [JDK](development/java/jdk.md)
-        * [Maven](development/java/maven.md)
 * [全文标签总览](tags.md)
