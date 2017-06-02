@@ -10,7 +10,7 @@ Ubuntu是一个广泛应用于个人电脑，智能手机，服务器，云计�
 
 笔记发布于 gitbook，请点击下面的链接阅读:
 
-https://skyao.gitbooks.io/leaning-ubuntu-server/
+https://skyao.gitbooks.io/learning-ubuntu-server/
 
 
 

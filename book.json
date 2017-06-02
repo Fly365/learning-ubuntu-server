@@ -23,7 +23,7 @@
   ],
   "pluginsConfig": {
     "edit-link": {
-        "base": "https://github.com/skyao/leaning-ubuntu-server/edit/master",
+        "base": "https://github.com/skyao/learning-ubuntu-server/edit/master",
         "label": "Edit"
     }
   },
